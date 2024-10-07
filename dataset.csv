@@ -1,0 +1,22 @@
+comando,acao
+eu quero criar uma nova tarefa,nova tarefa
+nova tarefa,nova tarefa
+gerar tarefa,nova tarefa
+criar tarefa,nova tarefa
+eu quero ver a tarefa,ver tarefa
+ver tarefa,ver tarefa
+me mostre a tarefa,ver tarefa
+preciso ver a tarefa,ver tarefa
+abrir a tarefa,ver tarefa
+eu quero criar uma nova receita,nova receita
+nova receita,nova receita
+gerar receita,nova receita
+criar receita,nova receita
+eu quero ver a receita,ver receita
+ver receita,ver receita
+me mostre a receita,ver receita
+preciso ver a receita,ver receita
+abrir a receita,ver receita
+eu quero editar a receita,editar receita
+editar receita,editar receita
+preciso editar a receita,editar receita
